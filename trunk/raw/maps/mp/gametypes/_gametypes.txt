@@ -1,0 +1,15 @@
+dm
+dom
+sd
+sab
+war
+koth
+oneflag
+arena
+dd
+vip
+ctf
+gtnw
+oitc
+gg
+ss
